@@ -1,0 +1,103 @@
+{
+  "users": [
+    {
+      "id": "005c",
+      "nickName": "G0d",
+      "name": "Santiago ",
+      "password": "123456",
+      "isAdmin": true
+    },
+    {
+      "id": "0bf5",
+      "nickName": "IDoAsMuchAsICan",
+      "name": "Santiago",
+      "password": "789456",
+      "isAdmin": false
+    },
+    {
+      "id": "9f9b",
+      "nickName": "narcicistifc_fuck",
+      "name": "Kesia",
+      "password": "contraseña",
+      "isAdmin": false
+    },
+    {
+      "id": "6c11",
+      "nickName": "Windtheking",
+      "Email": "adasdfasd@asdfasd",
+      "passWordHash": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"
+    },
+    {
+      "id": "ac54",
+      "nickName": "Windtheking",
+      "Email": "santymendoza0106@gmail.com",
+      "passWordHash": "d7c9aea59e2589c5ca7a738159f7eea1ec291d80ac0380a11437c9cfe1c46fad",
+      "isAdmin": false
+    },
+    {
+      "id": "e0a4",
+      "nickName": "Windtheking",
+      "Email": "tumamah@gamil.com",
+      "passWordHash": "d9e15de4e0195b8c5f737669f0294ff313c29af095e3df6f1f78c7dc809802cc",
+      "isAdmin": false
+    },
+    {
+      "id": "cc1f",
+      "nickName": "Windtheking",
+      "Email": "tumamah@gamil.com",
+      "passWordHash": "d9e15de4e0195b8c5f737669f0294ff313c29af095e3df6f1f78c7dc809802cc",
+      "isAdmin": false
+    },
+    {
+      "id": "8608",
+      "nickName": "Windtheking",
+      "Email": "tumamah@gamil.com",
+      "passWordHash": "481f6cc0511143ccdd7e2d1b1b94faf0a700a8b49cd13922a70b5ae28acaa8c5",
+      "isAdmin": false
+    },
+    {
+      "id": "548f",
+      "nickName": "Windtheking",
+      "Email": "tumamah@gamil.com",
+      "passWordHash": "dca9646726f98a04cdebdda98ded9bb2fc364789bbf4b43397ac19470a0df38f",
+      "isAdmin": false
+    },
+    {
+      "id": "f33e",
+      "nickName": "Windtheking",
+      "Email": "tumamah@gamil.com",
+      "passWordHash": "7f9da39a000b9a2d3a280a10b8915876da8b91d34c9cdc37f5d710dd6e6e008b",
+      "isAdmin": false
+    },
+    {
+      "id": "cfdf",
+      "nickName": "Windtheking",
+      "Email": "tumamah@gamil.com",
+      "passWordHash": "947f14f1c428709b37c26d9aeaf5a9aac1df4601732ca74ef84f75016c3d96bb",
+      "isAdmin": false
+    },
+    {
+      "id": "4bac",
+      "nickName": "Windtheking",
+      "Email": "tumamah@gamil.com",
+      "passWordHash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+      "isAdmin": false
+    },
+    {
+      "id": "559d",
+      "nickName": "Windtheking",
+      "Email": "santymendoza0106@gmail.com",
+      "passWordHash": "fc6db879f5d6da898bc95ca6da4833156dccf2a405493516267ce6461675db25",
+      "isAdmin": false
+    }
+  ],
+  "events": [
+    {
+      "titulo": "tittle",
+      "fecha": "date",
+      "hour": "hour",
+      "description": "description",
+      "id": "1262"
+    }
+  ]
+}
