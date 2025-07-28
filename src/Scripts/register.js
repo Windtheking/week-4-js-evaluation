@@ -51,6 +51,13 @@ document.getElementById("loginForm").addEventListener("submit", async(event) => 
         alert("Please insert a valid email")
         return;
     };
+
+    //Validation if password is a propper length and characters
+    if (validatePassword (password)) {
+        alert("The password must contain at least 8 characters and a special character.");
+        return;
+    }
+
     //matching values
     if (passWordHash === confirmPwdHash){
         console.log("son iguales√")
