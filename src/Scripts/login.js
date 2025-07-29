@@ -51,6 +51,7 @@ document.getElementById("loginForm").addEventListener("submit", async (event) =>
         return;
     }
 
+    const foundNickname = prom.find((user) => user.Email === Email && user.passWordHash === passWordHash)
 
     localStorage.setItem("Useremail", foundUsser.Email)
 
