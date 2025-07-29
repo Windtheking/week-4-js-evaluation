@@ -2,6 +2,7 @@ import generateSHA256 from "./Utilities/Hash_generator.js";
 import EmptyFields from "./Utilities/EmptyValidation.js";
 import isEmail from "./Utilities/EmailValidation.js";
 import users_controller from "./users_controller.js";
+import validatePassword from "./Utilities/validPaswordValidate.js"
 const isAdmin = false
 
 
@@ -16,9 +17,6 @@ document.getElementById("loginForm").addEventListener("submit", async(event) => 
 
     const passWordHash = generateSHA256(passWord)
     const confirmPwdHash = generateSHA256(ConfirmPassword)
-    console.log(passWordHash)
-    console.log(confirmPwdHash)
-
     // Verifications of values
 
     //verification of null

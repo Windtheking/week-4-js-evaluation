@@ -5,6 +5,13 @@
 }
 
 /* General body style */
+
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+}
+
 body {
     font-family: 'Georgia', serif;
     background-color: #faf9f6;

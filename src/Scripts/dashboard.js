@@ -7,4 +7,10 @@ document.getElementById("logoutBtn").addEventListener("click", () =>{
     window.location.href = "http://127.0.0.1:5500/src/pages/practice_login.html"
 });
 
-document.getElementById("welcomeMessage")
+const headerContainer = document.getElementById("welcomeMessage")
+const divWithText = document.createElement("div")
+const highTitle = document.createElement("h1")
+highTitle.textContent = "Welcome " + localStorage.getItem("Useremail")
+divWithText.appendChild(highTitle)
+headerContainer.appendChild(divWithText)
+divWithText.classList.add("MaximunHeader")
